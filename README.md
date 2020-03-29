@@ -1,6 +1,9 @@
 Table of Contents
 =================
 * [Installation](#Installation)
+* [Project Motivation](#Project_Motivation)
+* [File Descriptions](#File_Descriptions)
+* [Licensing, Authors, & Acknowledgements](#Licensing_,_Authors_,_Acknowledgements)
 
 # Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*
@@ -18,5 +21,5 @@ There are 4 notebooks available here to showcase work related to the above quest
 
 There are additional .csv file that were used for analysis.
 
-# Licensing, Authors, & Acknowledgements
+# Licensing, Authors, Acknowledgements
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
