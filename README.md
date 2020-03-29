@@ -22,4 +22,4 @@ There are 4 notebooks available here to showcase work related to the above quest
 There are additional .csv file that were used for analysis.
 
 # Acknowledgements
-Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/kimjihoo/coronavirusdataset/). Otherwise, feel free to use the code here as you would like!
